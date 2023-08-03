@@ -1,0 +1,153 @@
+#anc_nom{
+    width: 50%;
+}
+
+#anc_iva{
+    width: 10%;
+}
+#anc_pre{
+    width: 10%;
+}
+#anc_can{
+    width: 10%;
+}
+#anc_bon{
+    width: 10%;
+}
+#anc_des{
+    width: 10%;
+}
+
+
+#buscar{
+    background-color:aquamarine;
+    border-width: 1px;
+    font-size: 17px;
+
+}
+
+#pedido{
+    background-color:coral;
+    border-width: 1px;
+    font-size: 17px;
+    
+}
+
+
+
+#canti{
+    background-color:#424242;
+    color: white;
+    width: 70%;
+}
+
+#bonif{
+    background-color:#424242;
+    color: white;
+    width: 70%;
+}
+
+#descu{
+    background-color:#424242;
+    width: 70%;
+    color: white;
+}
+
+#nombres{
+    background-color:#424242;
+    color: white;
+    width: 100%;
+}
+
+
+
+
+@media screen and (max-width:1080px) {
+    #container{
+        font-size: 12px;
+    }
+
+    #res{
+        font-size: 10px;
+    }
+
+    #anc_nom{
+        width: 70%;
+    }
+
+    #anc_iva{
+        width: 4%;
+    }
+    #anc_pre{
+        width: 5%;
+    }
+    #anc_can{
+        width: 5%;
+    }
+    #anc_bon{
+        width: 5%;
+    }
+    #anc_des{
+        width: 5%;
+    }
+
+
+    #buscar{
+        font-size: 10px;
+    }
+
+    #pedido{
+        font-size: 10px;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .container{
+        font-size: 12px;
+    }
+
+    .table-dark{
+        font: 10px;
+
+    }
+
+    .table-dark th{
+        font-size: 10px;
+        
+    }
+
+    
+    #res{
+        font-size: 10px;
+    }
+
+    #anc_nom{
+        width: 70%;
+    }
+
+    #anc_iva{
+        width: 4%;
+    }
+    #anc_pre{
+        width: 5%;
+    }
+    #anc_can{
+        width: 5%;
+    }
+    #anc_bon{
+        width: 5%;
+    }
+    #anc_des{
+        width: 5%;
+    }
+
+    #buscar{
+        font-size: 12px;
+    }
+
+    #pedido{
+        font-size: 12px;
+    }
+
+}
